@@ -6,11 +6,11 @@ Chemistry 2044
 Manufacturer Data:  
 Design Capacity: 2400
 Design Voltage: 7200
-Manufacture Date (D.M.Y): 20.1.2020
-Serial Number: 1U5X02MEXP0ARB
+Manufacture Date (D.M.Y): 27.2.2020
+Serial Number: ################
 Specification Info: 49
-Cycle Count: 10
-Voltage: 8.14
+Cycle Count: 7
+Voltage: 8.15
 Full Charge Capacity: 2302
 Remaining Capacity: 2080
 Relative Charge(%): 91
