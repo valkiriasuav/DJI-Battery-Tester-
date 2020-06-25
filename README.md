@@ -2,7 +2,7 @@
 
 ## Programa
 
-** Para compilar el programa  es necesario intalar las siguientes librerias TFT desde el archivo ZIP **
+**Para compilar el programa  es necesario intalar las siguientes librerias TFT desde el archivo ZIP**
 
 Descarga la libreria e instala dentro de  Arduino IDE (Sketch -> Include library -> Add .ZIP library)
 
