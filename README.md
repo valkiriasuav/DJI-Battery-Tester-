@@ -47,7 +47,7 @@ Current (mA): -131
 
 Descarga la libreria e instala dentro de  Arduino IDE (Sketch -> Include library -> Add .ZIP library)
 
-Bodmer TFT_ST7735 v0.17
+https://github.com/Bodmer/TFT_ST7735
 
 Estas librerias pueden ser intsaladas desde el  Arduino IDE  (Sketch -> Include library -> Manage libraries...)
 
