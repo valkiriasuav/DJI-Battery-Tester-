@@ -1,11 +1,11 @@
 /*
-thanks to
-PowerCartel for smart battery routines - https://github.com/PowerCartel/PackProbe
-Bodmer for fast TFT library - https://github.com/Bodmer/TFT_ST7735
-Alain Aeropic - for BatMan inspiration - https://www.thingiverse.com/thing:4235767 
+Gracias a 
+PowerCartel por las rutinas para smartbateries - https://github.com/PowerCartel/PackProbe
+Bodmer por la libreria TFT - https://github.com/Bodmer/TFT_ST7735
+Czipiz por el codigo para el Mavic Mini y los logos DJI  https://github.com/czipis/mavic-mini-battery-info 
 */
 
-#define VERSION   "v1.0"
+#define VERSION   "v1.0.1"
 
 #include <TFT_ST7735.h> // Graphics and font library for ST7735 driver chip
 #include <SPI.h>
@@ -69,7 +69,7 @@ void setup()
   tft.drawCentreString("Mavic Mini", 64, 68, 2);
   tft.drawCentreString("battery info", 64, 90, 1);
   tft.drawCentreString(VERSION, 64, 102, 1);
-  tft.drawCentreString("github.com/czipis", 64, 120, 1);
+  tft.drawCentreString("Valkirias UAV", 64, 120, 1);
 
   delay(3000);
   tft.fillScreen(TFT_BACKGROUND);
@@ -287,7 +287,7 @@ void loop()
   tft.drawString("PRODUCED", 3, 54+15, 1);
   tft.drawRightString(mfg_date, 126, 54+15, 1);
   
-  tft.drawString("CYCLES", 3, 54+30, 1);b
+  tft.drawString("CYCLES", 3, 54+30, 1);
   tft.drawNumber(cycles, 45, 54+30, 1);
   tft.drawString("TEMP", 70, 54+30, 1);
   tft.fillRect(102, 54+30 , 25, 10, TFT_BACKGROUND);
