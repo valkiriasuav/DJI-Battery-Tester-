@@ -1,4 +1,4 @@
-Reporte del monitor serial 
+**Reporte del monitor serial**
 ```
 Manufacturer Name: SDI
 Device Name: BA01WM160
