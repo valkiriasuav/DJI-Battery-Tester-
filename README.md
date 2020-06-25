@@ -1,3 +1,10 @@
+# PROBADOR DE BATERIAS INTELIGENTES DJI 
+## REV 1.0.1 MAVIC MINI 
+
+Este dispositivo funciona basado en Arduino Nano, mediante la cominucacion serial I2c se obtiene la informacion de la bateria, la misma que se envia al drone.
+
+
+
 ![WhatsApp Image 2020-06-25 at 15 39 57](https://user-images.githubusercontent.com/67433384/85793226-4beb1c00-b6fa-11ea-9b50-7ab487d88661.jpeg)
 
 
