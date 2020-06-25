@@ -37,7 +37,7 @@ Temp: 23.75
 Current (mA): -131
 ```
 
-
+**Conexiones**
 
 ![Captura de pantalla 2020-06-25 13 20 34](https://user-images.githubusercontent.com/67433384/85776977-d164d100-b6e6-11ea-840e-72f4ee861261.png)
 
